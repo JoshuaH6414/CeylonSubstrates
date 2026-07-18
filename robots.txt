@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-Disallow: /logo-preview.html
-Disallow: /.image-slots.state.json
-
-Sitemap: https://www.ceylonsubstrates.com/sitemap.xml

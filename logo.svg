@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  
+  <g transform="translate(0, 4)">
+    
+    <circle cx="26" cy="26" r="25" stroke="#D4AF6E" stroke-width="1.5" fill="#0C1B2A"></circle>
+    
+    <path d="M26 8 C22 14 18 20 20 28 C22 22 24 16 26 12 C28 16 30 22 32 28 C34 20 30 14 26 8Z" fill="#D4AF6E" opacity="0.9"></path>
+    
+    <circle cx="26" cy="32" r="5" stroke="#D4AF6E" stroke-width="1" fill="none"></circle>
+    <circle cx="26" cy="32" r="3" fill="#D4AF6E" opacity="0.3"></circle>
+    
+    <path d="M10 40 C14 46 20 50 26 50 C32 50 38 46 42 40" stroke="#D4AF6E" stroke-width="1" fill="none" opacity="0.5"></path>
+  </g>
+  
+  <g transform="translate(62, 0)">
+    <text x="0" y="24" font-family="Georgia, &#39;Playfair Display&#39;, serif" font-size="22" font-weight="700" fill="#0C1B2A" letter-spacing="0.5">CEYLON</text>
+    <text x="0" y="46" font-family="Georgia, &#39;Playfair Display&#39;, serif" font-size="22" font-weight="700" fill="#0C1B2A" letter-spacing="0.5">SUBSTRATES</text>
+    <text x="0" y="58" font-family="Arial, &#39;DM Sans&#39;, sans-serif" font-size="7.5" fill="#D4AF6E" letter-spacing="4" font-weight="500">PREMIUM COIR PRODUCTS</text>
+  </g>
+</svg>
